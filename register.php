@@ -43,7 +43,7 @@ if(isset($_POST['submit'])){
    <link rel="stylesheet" href="css/style.css">
 
 </head>
-<body>
+<body style="background-color:lightblue;">
 
 
 

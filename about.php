@@ -27,7 +27,7 @@ if(!isset($user_id)){
    <link rel="stylesheet" href="css/style.css">
 
 </head>
-<body>
+<body style="background-color:lightblue">
    
 <?php include 'header.php'; ?>
 
@@ -97,7 +97,7 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Alaxender</h3>
       </div>
 
       <div class="box">
@@ -110,7 +110,7 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Surfikyu</h3>
       </div>
 
       <div class="box">
@@ -136,7 +136,7 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Cristiano</h3>
       </div>
 
    </div>
@@ -168,7 +168,7 @@ if(!isset($user_id)){
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>john deo</h3>
+         <h3>xyz</h3>
       </div>
 
       <div class="box">
@@ -179,7 +179,7 @@ if(!isset($user_id)){
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>john deo</h3>
+         <h3>uyt</h3>
       </div>
 
       <div class="box">
@@ -190,7 +190,7 @@ if(!isset($user_id)){
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>john deo</h3>
+         <h3>Crook</h3>
       </div>
 
       <div class="box">
@@ -201,7 +201,7 @@ if(!isset($user_id)){
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>john deo</h3>
+         <h3>uop</h3>
       </div>
 
       <div class="box">
@@ -212,7 +212,7 @@ if(!isset($user_id)){
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>john deo</h3>
+         <h3>Crukoo</h3>
       </div>
 
    </div>

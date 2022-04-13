@@ -45,7 +45,7 @@ if(isset($_POST['add_to_cart'])){
    <link rel="stylesheet" href="css/style.css">
 
 </head>
-<body>
+<body style="background-color:lightblue;">
    
 <?php include 'header.php'; ?>
 

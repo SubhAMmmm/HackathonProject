@@ -27,7 +27,7 @@ if(!isset($user_id)){
    <link rel="stylesheet" href="css/style.css">
 
 </head>
-<body>
+<body style="background-color:lightblue;">
    
 <?php include 'header.php'; ?>
 
